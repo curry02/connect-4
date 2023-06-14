@@ -311,5 +311,3 @@ function calculateWinner(array) {
   }
   return "draw";
 }
-
-/*token: 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*/
